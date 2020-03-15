@@ -49,3 +49,5 @@ Solving  - average reward of -110.0<br/>
 Our Score - average reward of -106.26<br/>
 Solved!<br/>
 
+***
+**Requirements:** deap, numpy, matplotlib, gym 
