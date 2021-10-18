@@ -1,0 +1,1 @@
+{'centroid': 0.0, 'sigma': 50.0, 'lambda_mul': 5, 'ngen': 2000}
