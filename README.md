@@ -39,7 +39,7 @@ Solved!<br/>
 
 
 **2. Acrobot-v1**<br/>
-Solving – no pecified threshold, only leaderboard [here](https://github.com/openai/gym/wiki/Leaderboard#acrobot-v1)<br/>
+Solving – no specified threshold, only leaderboard [here](https://github.com/openai/gym/wiki/Leaderboard#acrobot-v1)<br/>
 Our Score - average reward of -80.73<br/>
 10th place in the leaderboard!<br/>
 
@@ -48,6 +48,10 @@ Our Score - average reward of -80.73<br/>
 Solving  - average reward of -110.0<br/>
 Our Score - average reward of -106.26<br/>
 Solved!<br/>
+
+## Running instructions
+Training and testing methods are available on Main.py for all three tasks.
+Uncomment and run the relevant train_model and test_model methods.
 
 ***
 **Requirements:** deap, numpy, matplotlib, gym 
