@@ -50,8 +50,9 @@ Our Score - average reward of -106.26<br/>
 Solved!<br/>
 
 ## Running instructions
-Training and testing methods are available on Main.py for all three tasks.
-Uncomment and run the relevant train_model and test_model methods.
+Training and testing methods are available on Main.py for all three tasks. <br/>
+Uncomment and run the test_model methods for testing the pretrained models in this repo.
+Uncomment and run the train_model methods for training new models.
 
 ***
 **Requirements:** deap, numpy, matplotlib, gym 
