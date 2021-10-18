@@ -41,7 +41,7 @@ Solved!<br/>
 **2. Acrobot-v1**<br/>
 Solving – no specified threshold, only leaderboard [here](https://github.com/openai/gym/wiki/Leaderboard#acrobot-v1)<br/>
 Our Score - average reward of -80.73<br/>
-10th place in the leaderboard!<br/>
+13th place in the [leaderboard](https://github.com/openai/gym/wiki/Leaderboard)!<br/>
 
 
 **3. MountainCar-v0**<br/>
